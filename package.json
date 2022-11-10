@@ -1,0 +1,17 @@
+{
+  "name": "aws-lambda-cors-handler",
+  "version": "1.0.0",
+  "description": "Cors proxy handler for AWS Lambda",
+  "homepage": "https://github.com/juunini/aws-lambda-cors-handler",
+  "repository": "juunini/aws-lambda-cors-handler",
+  "link": true,
+  "main": "index.js",
+  "keywords": [
+    "aws",
+    "cors",
+    "lambda",
+    "handler"
+  ],
+  "author": "juunini",
+  "license": "MIT"
+}
